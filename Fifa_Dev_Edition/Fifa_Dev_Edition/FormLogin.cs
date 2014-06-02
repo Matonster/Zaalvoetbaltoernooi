@@ -15,8 +15,7 @@ namespace Fifa_Dev_Edition
     {
         private DatabaseHandler dbh;
         private Form frmAdmin;
-        private Form frmPlayer;
-        private Form frmRanking;
+        private FormMain formMain;
 
         public FormLogin()
         {
@@ -80,7 +79,7 @@ namespace Fifa_Dev_Edition
 
         private void btnShowRanking_Click(object sender, EventArgs e)
         {
-            frmRanking.Show(); 
+            //frmRanking.Show(); 
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
@@ -118,9 +117,8 @@ namespace Fifa_Dev_Edition
                 }
                 else
                 {
-                    //frmPlayer = new frmPlayer(frmRanking, username);
-                    //frmPlayer.Show();
-                    //frmPlayer.Show();
+                    formMain = new FormMain();
+                    formMain.Show();
                 }
             }
             else
