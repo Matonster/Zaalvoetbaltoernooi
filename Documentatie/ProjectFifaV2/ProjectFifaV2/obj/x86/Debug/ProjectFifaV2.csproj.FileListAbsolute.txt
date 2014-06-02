@@ -12,6 +12,7 @@ C:\Users\Sietse\Documents\Visual Studio 2010\Projects\ProjectFifaV2\ProjectFifaV
 C:\Users\Sietse\Documents\Visual Studio 2010\Projects\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.pdb
 C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.exe
 C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.pdb
+<<<<<<< HEAD
 C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.exe
 C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.pdb
 C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\bin\Debug\DB.sdf
@@ -24,3 +25,17 @@ C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifa
 C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmRanking.resources
 C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.Properties.Resources.resources
 C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.csproj.GenerateResource.Cache
+=======
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.exe
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.pdb
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\bin\Debug\DB.sdf
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\bin\Debug\ProjectFifaV2.exe
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\bin\Debug\ProjectFifaV2.pdb
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmAdmin.resources
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmLogin.resources
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmPlayer.resources
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmRanking.resources
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.Properties.Resources.resources
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.csproj.GenerateResource.Cache
+>>>>>>> 6c0983f375a25c43e2989264a3ecdf8dc66ac890
