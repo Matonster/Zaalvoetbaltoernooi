@@ -23,3 +23,5 @@ D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_D
 D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.exe
 D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.pdb
 >>>>>>> cfa2373e5b6a8596148dba7f7bfeb0f1a6cef8b6
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\DB.sdf
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.FormLogin.resources
