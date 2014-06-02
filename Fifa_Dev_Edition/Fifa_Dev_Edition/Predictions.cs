@@ -11,6 +11,7 @@ namespace Fifa_Dev_Edition
         public static void Predict(string match, int score1, int score2)
         {
             // Add user id, matchid, score1, score2 to tblPredictions
+
         }
     }
 }
