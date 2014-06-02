@@ -1,1 +1,10 @@
 C:\Users\Matonster\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.exe.config
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.exe.config
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.csprojResolveAssemblyReference.cache
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.Properties.Resources.resources
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.csproj.GenerateResource.Cache
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.exe
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.pdb
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.exe
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.pdb
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.FormMain.resources
