@@ -15,7 +15,10 @@ namespace Fifa_Dev_Edition
         public FormMain()
         {
             InitializeComponent();
-            lblCurrenttime.Text = DateTime.UtcNow.ToString();
+
+            lblCurrenttime.Text = DateTime.Now.ToString();
+
+            btnBets.Enabled = DateTime.Now < new DateTime(2014, 06, 12);
         }
 
         private void btnLogOut_Click(object sender, EventArgs e)
