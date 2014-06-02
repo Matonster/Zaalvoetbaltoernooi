@@ -69,5 +69,15 @@ namespace Fifa_Dev_Edition.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logoradiuscollege1 {
+            get {
+                object obj = ResourceManager.GetObject("logoradiuscollege1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

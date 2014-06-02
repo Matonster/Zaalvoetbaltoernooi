@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Fifa_Dev_Edition
 {
-    public partial class FormMain : Form
+    public partial class Prediction_History : Form
     {
-        public FormMain()
+        public Prediction_History()
         {
             InitializeComponent();
         }
