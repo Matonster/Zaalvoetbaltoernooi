@@ -14,16 +14,21 @@ namespace Fifa_Dev_V2
     public partial class FormLogin : Form
     {
         private DatabaseHandler dbh;
-        private FormAdmin formAdmin;
+        private Form frmAdmin;
         private FormMain formMain;
-        public int userID;
 
         public FormLogin()
         {
             InitializeComponent();
             dbh = new DatabaseHandler();
+<<<<<<< HEAD
             //formAdmin = new FormAdmin();
             //formMain = new FormMain();
+=======
+            //frmAdmin = new frmAdmin();
+            //frmRanking = new frmRanking();
+            //frmPlayer = new frmPlayer(frmRanking);
+>>>>>>> 52e44c3038e509cb91a951b3810e9dda82c8d1df
         }
 
         private void btnRegister_Click(object sender, EventArgs e)
@@ -113,7 +118,7 @@ namespace Fifa_Dev_V2
 
                 if (admin)
                 {
-                    formAdmin.Show();
+                    frmAdmin.Show();
                 }
                 else
                 {
@@ -126,12 +131,15 @@ namespace Fifa_Dev_V2
                 dbh.CloseConnectionToDB();
                 MessageHandler.ShowMessage("Wrong username and/or password.");
             }
+<<<<<<< HEAD
 
             SqlCeCommand uCmd = new SqlCeCommand("SELECT id from [tblUsers] WHERE Username = @Username", dbh.GetCon());
             uCmd.Parameters.AddWithValue("Username", username);
             dbh.OpenConnectionToDB();
             userID = (int)uCmd.ExecuteNonQuery();
             dbh.CloseConnectionToDB();
+=======
+>>>>>>> 52e44c3038e509cb91a951b3810e9dda82c8d1df
         }
     }
 }

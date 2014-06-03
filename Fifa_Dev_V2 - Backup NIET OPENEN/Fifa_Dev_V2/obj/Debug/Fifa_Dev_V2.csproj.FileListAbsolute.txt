@@ -17,4 +17,3 @@ C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OP
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OPENEN\Fifa_Dev_V2\bin\Debug\Fifa_Dev_V2.exe
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OPENEN\Fifa_Dev_V2\bin\Debug\Fifa_Dev_V2.pdb
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OPENEN\Fifa_Dev_V2\bin\Debug\DB.sdf
-C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OPENEN\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.FormPredictionHistory.resources

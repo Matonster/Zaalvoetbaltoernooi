@@ -13,6 +13,7 @@ namespace Fifa_Dev_V2
 {
     public partial class FormMain : Form
     {
+<<<<<<< HEAD
         FormPredictionHistory formPred = new FormPredictionHistory();
         Predictions pred = new Predictions();
         DatabaseHandler dbh = new DatabaseHandler();
@@ -20,6 +21,8 @@ namespace Fifa_Dev_V2
         SqlCeDataAdapter da;
         SqlCeCommandBuilder cb;
         
+=======
+>>>>>>> 52e44c3038e509cb91a951b3810e9dda82c8d1df
         public FormMain()
         {
             InitializeComponent();
@@ -36,12 +39,12 @@ namespace Fifa_Dev_V2
 
         private void btnBetHistory_Click(object sender, EventArgs e)
         {
-            formPred.Show();
+
         }
 
         private void btnBets_Click(object sender, EventArgs e)
         {
-            pred.Predict(int.Parse(txtGame.Text), int.Parse(txtTeam1.Text), int.Parse(txtTeam1.Text));
+            Predictions.Predict(txtGame.Text, int.Parse(txtTeam1.Text), int.Parse(txtTeam1.Text));
         }
 
         private void SetLeaderboards()
