@@ -18,3 +18,14 @@ C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OP
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OPENEN\Fifa_Dev_V2\bin\Debug\Fifa_Dev_V2.pdb
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OPENEN\Fifa_Dev_V2\bin\Debug\DB.sdf
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V2 - Backup NIET OPENEN\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.FormPredictionHistory.resources
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\bin\Debug\Fifa_Dev_V2.exe.config
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.exe
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\bin\Debug\DB.sdf
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\bin\Debug\Fifa_Dev_V2.exe
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\bin\Debug\Fifa_Dev_V2.pdb
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.csprojResolveAssemblyReference.cache
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.FormMain.resources
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.FormPredictionHistory.resources
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.Properties.Resources.resources
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.csproj.GenerateResource.Cache
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_V3\Fifa_Dev_V2\obj\Debug\Fifa_Dev_V2.pdb
