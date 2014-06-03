@@ -50,3 +50,5 @@ C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\P
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.csproj.GenerateResource.Cache
 >>>>>>> 6c0983f375a25c43e2989264a3ecdf8dc66ac890
 >>>>>>> 9651d09dd6a70fdbcca13356656ed168774d7a7c
+D:\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.exe
+D:\GitHub\Zaalvoetbaltoernooi\Documentatie\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.pdb
