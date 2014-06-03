@@ -22,8 +22,8 @@ namespace Fifa_Dev_V2
         {
             InitializeComponent();
             dbh = new DatabaseHandler();
-            formAdmin = new FormAdmin();
-            formMain = new FormMain();
+            //formAdmin = new FormAdmin();
+            //formMain = new FormMain();
         }
 
         private void btnRegister_Click(object sender, EventArgs e)
@@ -129,7 +129,9 @@ namespace Fifa_Dev_V2
 
             SqlCeCommand uCmd = new SqlCeCommand("SELECT id from [tblUsers] WHERE Username = @Username", dbh.GetCon());
             uCmd.Parameters.AddWithValue("Username", username);
+            dbh.OpenConnectionToDB();
             userID = (int)uCmd.ExecuteNonQuery();
+            dbh.CloseConnectionToDB();
         }
     }
 }

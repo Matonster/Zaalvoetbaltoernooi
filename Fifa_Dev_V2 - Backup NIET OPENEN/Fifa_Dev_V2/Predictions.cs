@@ -22,7 +22,9 @@ namespace Fifa_Dev_V2
                 cmd.Parameters.AddWithValue("PredictionHomeScore", score1);
                 cmd.Parameters.AddWithValue("PredictionAwayScore", score2);
                 cmd.Connection = dbh.GetCon();
+                dbh.OpenConnectionToDB();
                 cmd.ExecuteNonQuery();
+                dbh.CloseConnectionToDB();
             }
         }
     }
