@@ -11,3 +11,21 @@ C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edi
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.exe.config
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.exe
 C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.pdb
+<<<<<<< HEAD
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.exe
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.pdb
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.FormMain.resources
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.Properties.Resources.resources
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.csproj.GenerateResource.Cache
+=======
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\Fifa_Dev_Edition.exe.config
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.exe
+D:\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.pdb
+<<<<<<< HEAD
+C:\Users\Boaz\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.Prediction_History.resources
+=======
+>>>>>>> cfa2373e5b6a8596148dba7f7bfeb0f1a6cef8b6
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\bin\Debug\DB.sdf
+C:\Users\Tommy\Documents\GitHub\Zaalvoetbaltoernooi\Fifa_Dev_Edition\Fifa_Dev_Edition\obj\Debug\Fifa_Dev_Edition.FormLogin.resources
+>>>>>>> b87b0a9dc7cffb3396ecf7fe1ad16d8c1593fd1f

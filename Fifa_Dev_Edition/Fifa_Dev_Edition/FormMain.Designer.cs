@@ -37,28 +37,28 @@
             this.btnLeaderboard = new System.Windows.Forms.Button();
             this.dtgLeaderboard = new System.Windows.Forms.DataGridView();
             this.btnBetHistory = new System.Windows.Forms.Button();
+            this.btnLogOut = new System.Windows.Forms.Button();
             this.tabPredictions = new System.Windows.Forms.TabPage();
             this.btnBets = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtGame = new System.Windows.Forms.TextBox();
+            this.txtTeam2 = new System.Windows.Forms.TextBox();
             this.lblTeam2 = new System.Windows.Forms.Label();
             this.lblTeam1 = new System.Windows.Forms.Label();
             this.txtTeam1 = new System.Windows.Forms.TextBox();
             this.lblWedstrijdTxt = new System.Windows.Forms.Label();
             this.lblWedstrijdScoreTxt = new System.Windows.Forms.Label();
             this.tabInfo = new System.Windows.Forms.TabPage();
+            this.dtgInfo = new System.Windows.Forms.DataGridView();
             this.lblCurrentTimeTxt = new System.Windows.Forms.Label();
             this.lblCurrenttime = new System.Windows.Forms.Label();
             this.picLogo = new System.Windows.Forms.PictureBox();
-            this.btnLogOut = new System.Windows.Forms.Button();
-            this.dtgInfo = new System.Windows.Forms.DataGridView();
             this.tabControl.SuspendLayout();
             this.tabHome.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtgLeaderboard)).BeginInit();
             this.tabPredictions.SuspendLayout();
             this.tabInfo.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgInfo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl
@@ -157,14 +157,26 @@
             this.btnBetHistory.Name = "btnBetHistory";
             this.btnBetHistory.Size = new System.Drawing.Size(131, 50);
             this.btnBetHistory.TabIndex = 1;
-            this.btnBetHistory.Text = "Bet History";
+            this.btnBetHistory.Text = "History";
             this.btnBetHistory.UseVisualStyleBackColor = true;
+            this.btnBetHistory.Click += new System.EventHandler(this.btnBetHistory_Click);
+            // 
+            // btnLogOut
+            // 
+            this.btnLogOut.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogOut.Location = new System.Drawing.Point(15, 436);
+            this.btnLogOut.Name = "btnLogOut";
+            this.btnLogOut.Size = new System.Drawing.Size(131, 50);
+            this.btnLogOut.TabIndex = 0;
+            this.btnLogOut.Text = "Log out";
+            this.btnLogOut.UseVisualStyleBackColor = true;
+            this.btnLogOut.Click += new System.EventHandler(this.btnLogOut_Click);
             // 
             // tabPredictions
             // 
             this.tabPredictions.Controls.Add(this.btnBets);
-            this.tabPredictions.Controls.Add(this.textBox3);
-            this.tabPredictions.Controls.Add(this.textBox1);
+            this.tabPredictions.Controls.Add(this.txtGame);
+            this.tabPredictions.Controls.Add(this.txtTeam2);
             this.tabPredictions.Controls.Add(this.lblTeam2);
             this.tabPredictions.Controls.Add(this.lblTeam1);
             this.tabPredictions.Controls.Add(this.txtTeam1);
@@ -185,24 +197,25 @@
             this.btnBets.Name = "btnBets";
             this.btnBets.Size = new System.Drawing.Size(182, 75);
             this.btnBets.TabIndex = 4;
-            this.btnBets.Text = "Bets";
+            this.btnBets.Text = "Predict!";
             this.btnBets.UseVisualStyleBackColor = true;
+            this.btnBets.Click += new System.EventHandler(this.btnBets_Click);
             // 
-            // textBox3
+            // txtGame
             // 
-            this.textBox3.Font = new System.Drawing.Font("Cambria", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(222, 152);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(491, 46);
-            this.textBox3.TabIndex = 1;
+            this.txtGame.Font = new System.Drawing.Font("Cambria", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtGame.Location = new System.Drawing.Point(222, 152);
+            this.txtGame.Name = "txtGame";
+            this.txtGame.Size = new System.Drawing.Size(491, 46);
+            this.txtGame.TabIndex = 1;
             // 
-            // textBox1
+            // txtTeam2
             // 
-            this.textBox1.Font = new System.Drawing.Font("Cambria", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(649, 230);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(64, 46);
-            this.textBox1.TabIndex = 3;
+            this.txtTeam2.Font = new System.Drawing.Font("Cambria", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTeam2.Location = new System.Drawing.Point(649, 230);
+            this.txtTeam2.Name = "txtTeam2";
+            this.txtTeam2.Size = new System.Drawing.Size(64, 46);
+            this.txtTeam2.TabIndex = 3;
             // 
             // lblTeam2
             // 
@@ -263,6 +276,15 @@
             this.tabInfo.Text = "Info";
             this.tabInfo.UseVisualStyleBackColor = true;
             // 
+            // dtgInfo
+            // 
+            this.dtgInfo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgInfo.Location = new System.Drawing.Point(3, 6);
+            this.dtgInfo.Name = "dtgInfo";
+            this.dtgInfo.RowTemplate.Height = 24;
+            this.dtgInfo.Size = new System.Drawing.Size(817, 485);
+            this.dtgInfo.TabIndex = 0;
+            // 
             // lblCurrentTimeTxt
             // 
             this.lblCurrentTimeTxt.AutoSize = true;
@@ -291,25 +313,6 @@
             this.picLogo.TabIndex = 4;
             this.picLogo.TabStop = false;
             // 
-            // btnLogOut
-            // 
-            this.btnLogOut.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLogOut.Location = new System.Drawing.Point(15, 436);
-            this.btnLogOut.Name = "btnLogOut";
-            this.btnLogOut.Size = new System.Drawing.Size(131, 50);
-            this.btnLogOut.TabIndex = 0;
-            this.btnLogOut.Text = "Log out";
-            this.btnLogOut.UseVisualStyleBackColor = true;
-            // 
-            // dtgInfo
-            // 
-            this.dtgInfo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dtgInfo.Location = new System.Drawing.Point(3, 6);
-            this.dtgInfo.Name = "dtgInfo";
-            this.dtgInfo.RowTemplate.Height = 24;
-            this.dtgInfo.Size = new System.Drawing.Size(817, 485);
-            this.dtgInfo.TabIndex = 0;
-            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -329,8 +332,8 @@
             this.tabPredictions.ResumeLayout(false);
             this.tabPredictions.PerformLayout();
             this.tabInfo.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgInfo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -352,8 +355,8 @@
         private System.Windows.Forms.PictureBox picLogo;
         private System.Windows.Forms.Label lblScore;
         private System.Windows.Forms.Label lblUsername;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtGame;
+        private System.Windows.Forms.TextBox txtTeam2;
         private System.Windows.Forms.Label lblTeam2;
         private System.Windows.Forms.Label lblTeam1;
         private System.Windows.Forms.TextBox txtTeam1;

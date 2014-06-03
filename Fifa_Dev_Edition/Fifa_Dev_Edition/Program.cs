@@ -16,7 +16,7 @@ namespace Fifa_Dev_Edition
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMain());
+            Application.Run(new FormLogin());
         }
     }
 }
