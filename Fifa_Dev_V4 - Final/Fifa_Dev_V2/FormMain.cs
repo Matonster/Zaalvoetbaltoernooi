@@ -13,7 +13,6 @@ namespace Fifa_Dev_V2
 {
     public partial class FormMain : Form
     {
-<<<<<<< HEAD
         FormPredictionHistory formPred = new FormPredictionHistory();
         Predictions pred = new Predictions();
         DatabaseHandler dbh = new DatabaseHandler();
@@ -21,8 +20,6 @@ namespace Fifa_Dev_V2
         SqlCeDataAdapter da;
         SqlCeCommandBuilder cb;
         
-=======
->>>>>>> 52e44c3038e509cb91a951b3810e9dda82c8d1df
         public FormMain()
         {
             InitializeComponent();
